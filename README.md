@@ -1,3 +1,1 @@
-MongoDB Sample movie database with:
-- HuggingFace 
-- OpenAI
+RAG search with Langchain, OpenAI and MongoDB.
